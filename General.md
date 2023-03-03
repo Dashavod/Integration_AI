@@ -17,7 +17,7 @@ Content-Type: application/json
 - Wrong structure
 
 ***The model may return the answer in a slightly different structure, than you expected***
-![[Pasted image 20230303171231.png]]
+![Pasted image 20230303171231.png](https://github.com/Dashavod/Integration_AI/raw/main/Pasted%20image%2020230303171231.png)
 
 ### Successful response example:
 ***each answer offten different, and provided information can be unreliable or irrelevant*
