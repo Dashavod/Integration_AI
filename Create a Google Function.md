@@ -3,7 +3,7 @@ For create google function, we must have billing google project. In Google cloud
 ![[Pasted image 20230303161517.png]]
 
 In next page
-![[Pasted image 20230303162417.png]]
+![Pasted image 20230303162417.png](https://github.com/Dashavod/Integration_AI/raw/main/Pasted%20image%2020230303162417.png)
 
 Google provide us simple function template, with entrypoint helloword
 Import your code from cloud source repository, which connected for your github repository 
