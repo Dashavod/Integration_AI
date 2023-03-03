@@ -1,6 +1,6 @@
 For create google function, we must have billing google project. In Google cloud console choose, Google functions and then "Create function". In this form choose a nearest region?, setup trigger for your function, in section Runtime you can enter your enviroument variables, and options.
 
-![[Pasted image 20230303161517.png]]
+![Pasted image 20230303161517.png](https://github.com/Dashavod/Integration_AI/raw/main/Screenshot%202023-03-03%20184006.png)
 
 In next page
 ![Pasted image 20230303162417.png](https://github.com/Dashavod/Integration_AI/raw/main/Pasted%20image%2020230303162417.png)
