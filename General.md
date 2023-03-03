@@ -13,7 +13,7 @@ Content-Type: application/json
 
 #### Errors
 - Unautorized
-![Image](Pasted image 20230303170801.png)
+![Image](https://github.com/Dashavod/Integration_AI/raw/main/Pasted%20image%2020230303170801.png)
 - Wrong structure
 
 ***The model may return the answer in a slightly different structure, than you expected***
